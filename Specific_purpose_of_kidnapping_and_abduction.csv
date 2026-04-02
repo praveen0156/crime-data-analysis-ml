@@ -1,0 +1,354 @@
+﻿Area_Name,Year,Group_Name,Sub_Group_Name,K_A_Cases_Reported,K_A_Female_10_15_Years,K_A_Female_15_18_Years,K_A_Female_18_30_Years,K_A_Female_30_50_Years,K_A_Female_Above_50_Years,K_A_Female_Total,K_A_Female_Upto_10_Years,K_A_Grand_Total,K_A_Male_10_15_Years,K_A_Male_15_18_Years,K_A_Male_18_30_Years,K_A_Male_30_50_Years,K_A_Male_Above_50_Years,K_A_Male_Total,K_A_Male_Upto_10_Years
+Andhra Pradesh,2010,Kidnap - For Adoption,01. For Adoption,3,0,0,0,0,0,0,0,3,0,0,0,2,0,3,1
+Arunachal Pradesh,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bihar,2010,Kidnap - For Adoption,01. For Adoption,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,2,NULL,1,2,NULL,6,1
+Chhattisgarh,2010,Kidnap - For Adoption,01. For Adoption,3,0,3,0,0,0,3,0,3,0,0,0,0,0,0,0
+Delhi,2010,Kidnap - For Adoption,01. For Adoption,1,NULL,NULL,NULL,NULL,NULL,0,NULL,1,NULL,NULL,NULL,NULL,NULL,1,1
+Goa,2010,Kidnap - For Adoption,01. For Adoption,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,1,1
+Gujarat,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haryana,2010,Kidnap - For Adoption,01. For Adoption,2,NULL,NULL,NULL,NULL,NULL,0,NULL,2,NULL,NULL,NULL,NULL,NULL,2,2
+Himachal Pradesh,2010,Kidnap - For Adoption,01. For Adoption,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+Jammu & Kashmir,2010,Kidnap - For Adoption,01. For Adoption,3,0,0,3,0,0,3,0,3,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Adoption,01. For Adoption,12,3,0,6,0,0,9,0,12,0,0,3,0,0,3,0
+Karnataka,2010,Kidnap - For Adoption,01. For Adoption,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Adoption,01. For Adoption,23,2,5,16,0,0,23,0,23,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manipur,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Adoption,01. For Adoption,22,2,2,1,0,0,6,1,22,1,3,4,7,0,16,1
+Odisha,2010,Kidnap - For Adoption,01. For Adoption,45,0,0,42,3,0,45,0,45,0,0,0,0,0,0,0
+Punjab,2010,Kidnap - For Adoption,01. For Adoption,3,NULL,NULL,NULL,NULL,NULL,1,1,3,NULL,NULL,NULL,NULL,NULL,2,2
+Tamil Nadu,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,2010,Kidnap - For Adoption,01. For Adoption,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,1,1
+West Bengal,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andhra Pradesh,2010,Kidnap - For Begging,02. For Begging,3,0,0,0,0,0,0,0,3,1,0,0,1,0,3,1
+Arunachal Pradesh,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bihar,2010,Kidnap - For Begging,02. For Begging,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL,NULL,NULL,NULL,1,NULL
+Chhattisgarh,2010,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Himachal Pradesh,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Begging,02. For Begging,2,0,0,1,0,0,1,0,2,0,0,1,0,0,1,0
+Kerala,2010,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+Madhya Pradesh,2010,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0
+Manipur,2010,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Begging,02. For Begging,25,0,0,25,0,0,25,0,25,0,0,0,0,0,0,0
+Puducherry,2010,Kidnap - For Begging,02. For Begging,1,NULL,NULL,NULL,NULL,NULL,3,3,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Punjab,2010,Kidnap - For Begging,02. For Begging,1,1,NULL,NULL,NULL,NULL,1,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Rajasthan,2010,Kidnap - For Begging,02. For Begging,3,NULL,NULL,NULL,NULL,NULL,2,2,3,NULL,NULL,NULL,NULL,NULL,1,1
+Tamil Nadu,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,2010,Kidnap - For Begging,02. For Begging,18,4,0,2,0,0,6,0,20,12,0,0,0,0,14,2
+Andhra Pradesh,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arunachal Pradesh,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chhattisgarh,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Himachal Pradesh,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Camel Racing,03. for Camel Racing,2,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manipur,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andhra Pradesh,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,118,8,19,73,10,0,110,0,118,1,0,7,0,0,8,0
+Arunachal Pradesh,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,4,3,0,1,0,0,4,0,4,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,241,5,12,169,55,NULL,241,NULL,241,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Bihar,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,48,2,5,26,15,NULL,48,NULL,48,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Chhattisgarh,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,14,3,7,4,0,0,14,0,14,0,0,0,0,0,0,0
+Delhi,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,21,7,14,NULL,NULL,NULL,21,NULL,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Gujarat,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,259,31,94,106,7,0,241,3,259,0,0,11,6,0,18,1
+Haryana,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,137,2,8,120,6,0,137,1,137,0,0,0,0,0,0,0
+Himachal Pradesh,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,4,0,5,0,0,0,5,0,5,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,255,1,1,211,35,0,249,1,255,0,0,6,0,0,6,0
+Jharkhand,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,34,0,0,30,4,0,34,0,34,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,2,1,0,0,1,0,2,0,2,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,22,4,9,7,1,0,21,0,22,1,0,0,0,0,1,0
+Madhya Pradesh,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,79,13,21,38,5,0,79,2,79,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,42,9,19,5,1,0,37,3,42,0,1,3,0,0,5,1
+Manipur,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,8,0,1,6,2,0,9,0,9,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,87,2,0,80,1,0,83,0,87,0,0,4,0,0,4,0
+Puducherry,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,2,1,1,NULL,NULL,NULL,2,0,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Punjab,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,32,4,3,24,1,NULL,32,NULL,32,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Rajasthan,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,30,NULL,15,15,NULL,NULL,30,NULL,30,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Sikkim,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,1,1,1,NULL,NULL,NULL,2,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Tamil Nadu,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,70,2,30,34,3,0,69,0,70,0,0,0,1,0,1,0
+Uttar Pradesh,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,1604,80,286,1008,226,NULL,1604,4,1604,0,0,NULL,NULL,NULL,NULL,0
+West Bengal,2010,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,25,0,0,17,8,0,25,0,25,0,0,0,0,0,0,0
+Andaman & Nicobar Islands,2010,Kidnap - For Marriage,05. For Marriage,2,NULL,2,NULL,NULL,NULL,2,NULL,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Andhra Pradesh,2010,Kidnap - For Marriage,05. For Marriage,945,85,240,489,114,0,929,1,945,0,4,12,0,0,16,0
+Arunachal Pradesh,2010,Kidnap - For Marriage,05. For Marriage,40,0,0,33,7,0,40,0,40,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Marriage,05. For Marriage,2114,NULL,NULL,1689,425,NULL,2114,NULL,2114,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Bihar,2010,Kidnap - For Marriage,05. For Marriage,2523,59,1093,1176,66,NULL,2394,NULL,2526,NULL,5,123,4,NULL,132,NULL
+Chandigarh,2010,Kidnap - For Marriage,05. For Marriage,27,6,13,8,NULL,NULL,27,NULL,27,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Chhattisgarh,2010,Kidnap - For Marriage,05. For Marriage,175,29,72,69,5,0,175,0,175,0,0,0,0,0,0,0
+Dadra & Nagar Haveli,2010,Kidnap - For Marriage,05. For Marriage,10,7,2,1,NULL,NULL,10,NULL,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Delhi,2010,Kidnap - For Marriage,05. For Marriage,175,26,127,21,NULL,NULL,176,2,177,NULL,1,NULL,NULL,NULL,1,NULL
+Goa,2010,Kidnap - For Marriage,05. For Marriage,4,0,3,1,NULL,NULL,4,0,4,0,0,0,NULL,NULL,NULL,0
+Gujarat,2010,Kidnap - For Marriage,05. For Marriage,893,68,281,473,33,6,861,0,894,0,0,19,14,0,33,0
+Haryana,2010,Kidnap - For Marriage,05. For Marriage,485,9,36,400,42,0,487,0,489,0,0,2,0,0,2,0
+Himachal Pradesh,2010,Kidnap - For Marriage,05. For Marriage,147,18,41,76,15,0,150,0,152,0,0,2,0,0,2,0
+Jammu & Kashmir,2010,Kidnap - For Marriage,05. For Marriage,528,0,2,438,86,1,527,0,528,0,0,0,1,0,1,0
+Jharkhand,2010,Kidnap - For Marriage,05. For Marriage,462,0,5,419,31,0,455,0,462,0,3,2,2,0,7,0
+Karnataka,2010,Kidnap - For Marriage,05. For Marriage,155,7,52,81,2,0,142,0,155,0,0,13,0,0,13,0
+Kerala,2010,Kidnap - For Marriage,05. For Marriage,114,6,60,47,0,0,113,0,114,0,0,1,0,0,1,0
+Madhya Pradesh,2010,Kidnap - For Marriage,05. For Marriage,673,88,182,389,15,0,676,2,676,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Marriage,05. For Marriage,800,98,403,260,35,0,797,1,806,0,1,6,2,0,9,0
+Manipur,2010,Kidnap - For Marriage,05. For Marriage,64,6,30,28,1,0,65,0,65,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Marriage,05. For Marriage,4,0,4,0,0,0,4,0,4,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Marriage,05. For Marriage,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Marriage,05. For Marriage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Marriage,05. For Marriage,417,11,16,373,9,0,409,0,417,0,0,4,4,0,8,0
+Puducherry,2010,Kidnap - For Marriage,05. For Marriage,10,NULL,4,5,NULL,NULL,9,NULL,10,NULL,NULL,1,NULL,NULL,1,NULL
+Punjab,2010,Kidnap - For Marriage,05. For Marriage,510,63,246,206,NULL,NULL,515,NULL,515,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Rajasthan,2010,Kidnap - For Marriage,05. For Marriage,1539,83,322,916,210,4,1538,3,1540,NULL,NULL,2,NULL,NULL,2,NULL
+Sikkim,2010,Kidnap - For Marriage,05. For Marriage,4,NULL,4,NULL,NULL,NULL,4,NULL,4,NULL,0,NULL,NULL,NULL,NULL,NULL
+Tamil Nadu,2010,Kidnap - For Marriage,05. For Marriage,1123,22,337,701,64,0,1124,0,1124,0,0,0,0,0,0,0
+Tripura,2010,Kidnap - For Marriage,05. For Marriage,74,5,8,48,13,NULL,74,NULL,74,NULL,0,NULL,NULL,NULL,NULL,NULL
+Uttar Pradesh,2010,Kidnap - For Marriage,05. For Marriage,3766,69,606,2629,460,NULL,3766,2,3766,NULL,NULL,NULL,NULL,NULL,NULL,0
+Uttarakhand,2010,Kidnap - For Marriage,05. For Marriage,161,NULL,1,158,2,NULL,161,NULL,161,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+West Bengal,2010,Kidnap - For Marriage,05. For Marriage,377,28,183,156,10,0,377,0,377,0,0,0,0,0,0,0
+Andhra Pradesh,2010,Kidnap - For Prostitution,06. For Prostitution,30,0,5,10,3,0,18,0,30,0,0,0,12,0,12,0
+Arunachal Pradesh,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Prostitution,06. For Prostitution,126,NULL,NULL,75,51,NULL,126,NULL,126,NULL,NULL,0,0,NULL,NULL,NULL
+Bihar,2010,Kidnap - For Prostitution,06. For Prostitution,6,NULL,NULL,6,NULL,NULL,6,NULL,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Chhattisgarh,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haryana,2010,Kidnap - For Prostitution,06. For Prostitution,5,0,1,1,0,0,2,0,5,3,0,0,0,0,3,0
+Himachal Pradesh,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Prostitution,06. For Prostitution,6,0,1,6,0,0,7,0,7,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Prostitution,06. For Prostitution,55,3,64,55,0,0,122,0,123,0,0,0,0,0,1,1
+Manipur,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Prostitution,06. For Prostitution,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Prostitution,06. For Prostitution,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Tamil Nadu,2010,Kidnap - For Prostitution,06. For Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,2010,Kidnap - For Prostitution,06. For Prostitution,234,5,10,109,59,51,234,0,234,0,0,0,0,0,0,0
+Andhra Pradesh,2010,Kidnap - For Ransom,07. For Ransom,5,1,0,0,0,0,2,1,5,0,0,1,1,0,3,1
+Arunachal Pradesh,2010,Kidnap - For Ransom,07. For Ransom,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Ransom,07. For Ransom,86,NULL,NULL,49,12,NULL,61,NULL,86,NULL,NULL,9,16,NULL,25,NULL
+Bihar,2010,Kidnap - For Ransom,07. For Ransom,72,NULL,NULL,1,NULL,NULL,1,NULL,74,18,8,29,5,1,73,12
+Chandigarh,2010,Kidnap - For Ransom,07. For Ransom,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,NULL,NULL,NULL,1,NULL,2,1
+Chhattisgarh,2010,Kidnap - For Ransom,07. For Ransom,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Dadra & Nagar Haveli,2010,Kidnap - For Ransom,07. For Ransom,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL,NULL,NULL,NULL,1,NULL
+Delhi,2010,Kidnap - For Ransom,07. For Ransom,18,0,1,0,0,0,3,2,19,4,0,3,1,0,16,8
+Goa,2010,Kidnap - For Ransom,07. For Ransom,5,NULL,1,NULL,NULL,NULL,1,NULL,6,NULL,NULL,2,2,NULL,5,1
+Gujarat,2010,Kidnap - For Ransom,07. For Ransom,28,0,1,1,0,0,2,0,28,1,1,11,10,1,26,2
+Haryana,2010,Kidnap - For Ransom,07. For Ransom,17,0,1,1,0,0,3,1,19,2,2,3,4,0,16,5
+Himachal Pradesh,2010,Kidnap - For Ransom,07. For Ransom,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+Jammu & Kashmir,2010,Kidnap - For Ransom,07. For Ransom,9,0,0,6,2,0,8,0,9,0,0,0,1,0,1,0
+Jharkhand,2010,Kidnap - For Ransom,07. For Ransom,147,0,0,55,25,0,80,0,147,0,1,37,26,2,67,1
+Karnataka,2010,Kidnap - For Ransom,07. For Ransom,21,0,0,11,0,0,12,1,30,0,0,12,0,1,18,5
+Kerala,2010,Kidnap - For Ransom,07. For Ransom,2,0,0,0,0,0,0,0,3,0,0,1,1,1,3,0
+Madhya Pradesh,2010,Kidnap - For Ransom,07. For Ransom,41,0,0,0,0,0,0,0,50,0,1,32,14,1,50,2
+Maharashtra,2010,Kidnap - For Ransom,07. For Ransom,26,2,1,0,0,0,5,2,26,6,2,4,4,1,21,4
+Manipur,2010,Kidnap - For Ransom,07. For Ransom,32,0,0,0,3,0,3,0,45,0,0,9,21,12,42,0
+Meghalaya,2010,Kidnap - For Ransom,07. For Ransom,28,0,0,0,0,0,0,0,28,2,3,16,6,0,28,1
+Mizoram,2010,Kidnap - For Ransom,07. For Ransom,2,0,0,0,0,0,0,0,2,0,0,0,2,0,2,0
+Nagaland,2010,Kidnap - For Ransom,07. For Ransom,26,0,0,3,0,0,3,0,26,0,2,11,8,1,23,1
+Odisha,2010,Kidnap - For Ransom,07. For Ransom,3,0,0,3,0,0,3,0,3,0,0,0,0,0,0,0
+Punjab,2010,Kidnap - For Ransom,07. For Ransom,10,NULL,NULL,1,NULL,NULL,1,NULL,10,NULL,1,4,NULL,NULL,9,4
+Rajasthan,2010,Kidnap - For Ransom,07. For Ransom,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,1,1,3,1,NULL,6,NULL
+Tamil Nadu,2010,Kidnap - For Ransom,07. For Ransom,8,1,0,1,1,1,5,1,8,1,0,1,1,0,3,0
+Tripura,2010,Kidnap - For Ransom,07. For Ransom,7,NULL,NULL,NULL,0,NULL,NULL,NULL,22,1,NULL,11,9,1,22,NULL
+Uttar Pradesh,2010,Kidnap - For Ransom,07. For Ransom,60,1,0,2,0,0,4,1,62,13,3,24,12,1,58,5
+Uttarakhand,2010,Kidnap - For Ransom,07. For Ransom,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,NULL,NULL,2,NULL,NULL,2,NULL
+West Bengal,2010,Kidnap - For Ransom,07. For Ransom,72,0,0,9,2,0,15,4,72,4,4,18,17,9,57,5
+Andhra Pradesh,2010,Kidnap - For Revenge,08. For Revenge,32,0,0,11,0,0,12,1,32,1,0,7,10,0,20,2
+Arunachal Pradesh,2010,Kidnap - For Revenge,08. For Revenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Revenge,08. For Revenge,26,NULL,NULL,14,5,NULL,19,NULL,26,NULL,NULL,NULL,7,NULL,7,NULL
+Bihar,2010,Kidnap - For Revenge,08. For Revenge,9,NULL,NULL,1,NULL,NULL,1,NULL,9,NULL,4,4,NULL,NULL,8,NULL
+Chandigarh,2010,Kidnap - For Revenge,08. For Revenge,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,1,1
+Chhattisgarh,2010,Kidnap - For Revenge,08. For Revenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Revenge,08. For Revenge,7,0,0,2,0,0,2,0,7,0,0,4,1,0,5,0
+Haryana,2010,Kidnap - For Revenge,08. For Revenge,23,1,3,1,1,0,7,1,23,1,0,10,4,1,16,0
+Himachal Pradesh,2010,Kidnap - For Revenge,08. For Revenge,2,0,0,0,0,0,0,0,2,1,1,0,0,0,2,0
+Jammu & Kashmir,2010,Kidnap - For Revenge,08. For Revenge,7,0,0,4,2,0,6,0,7,0,0,0,1,0,1,0
+Jharkhand,2010,Kidnap - For Revenge,08. For Revenge,10,0,0,0,0,0,0,0,10,0,0,9,1,0,10,0
+Karnataka,2010,Kidnap - For Revenge,08. For Revenge,15,0,0,3,1,0,4,0,15,0,0,11,0,0,11,0
+Kerala,2010,Kidnap - For Revenge,08. For Revenge,6,0,0,1,0,0,1,0,6,0,0,2,3,0,5,0
+Madhya Pradesh,2010,Kidnap - For Revenge,08. For Revenge,5,0,0,0,0,0,0,0,5,0,2,0,3,0,5,0
+Maharashtra,2010,Kidnap - For Revenge,08. For Revenge,22,0,1,0,0,0,1,0,23,1,2,11,5,0,22,3
+Manipur,2010,Kidnap - For Revenge,08. For Revenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Revenge,08. For Revenge,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+Mizoram,2010,Kidnap - For Revenge,08. For Revenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Revenge,08. For Revenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Revenge,08. For Revenge,3,0,0,1,0,0,1,0,3,0,0,0,2,0,2,0
+Punjab,2010,Kidnap - For Revenge,08. For Revenge,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,1,1
+Rajasthan,2010,Kidnap - For Revenge,08. For Revenge,13,NULL,2,0,0,0,3,1,13,NULL,0,3,5,2,10,NULL
+Tamil Nadu,2010,Kidnap - For Revenge,08. For Revenge,12,0,2,2,0,0,4,0,12,0,0,1,7,0,8,0
+Uttar Pradesh,2010,Kidnap - For Revenge,08. For Revenge,61,1,1,4,1,0,9,2,61,4,3,27,13,1,52,4
+West Bengal,2010,Kidnap - For Revenge,08. For Revenge,12,0,0,3,0,0,3,0,12,0,0,4,3,2,9,0
+Andhra Pradesh,2010,Kidnap - For Sale,09. For Sale,3,0,0,0,0,0,1,1,3,2,0,0,0,0,2,0
+Arunachal Pradesh,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Sale,09. For Sale,3,NULL,NULL,3,NULL,NULL,3,NULL,3,NULL,NULL,0,0,NULL,0,NULL
+Bihar,2010,Kidnap - For Sale,09. For Sale,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3,NULL,NULL,2,1,NULL,3,NULL
+Chhattisgarh,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2010,Kidnap - For Sale,09. For Sale,6,NULL,4,NULL,NULL,NULL,4,NULL,7,NULL,NULL,NULL,NULL,NULL,3,3
+Gujarat,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Himachal Pradesh,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Sale,09. For Sale,3,0,3,0,0,0,3,0,3,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Sale,09. For Sale,2,1,1,0,0,0,2,0,2,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Sale,09. For Sale,2,0,1,1,0,0,2,0,2,0,0,0,0,0,0,0
+Manipur,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punjab,2010,Kidnap - For Sale,09. For Sale,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,1,1
+Tamil Nadu,2010,Kidnap - For Sale,09. For Sale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,2010,Kidnap - For Sale,09. For Sale,175,9,10,45,48,30,149,7,205,0,8,18,12,18,56,0
+Andhra Pradesh,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arunachal Pradesh,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chhattisgarh,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haryana,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,10,0,0,0,0,0,0,0,10,0,0,3,7,0,10,0
+Himachal Pradesh,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manipur,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,2010,Kidnap - For Selling Bodyparts,10. For Selling Bodyparts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andhra Pradesh,2010,Kidnap - For Slavery,11. For Slavery,2,0,0,0,0,0,0,0,2,0,0,2,0,0,2,0
+Arunachal Pradesh,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bihar,2010,Kidnap - For Slavery,11. For Slavery,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,NULL,2,NULL,NULL,NULL,2,NULL
+Chhattisgarh,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Himachal Pradesh,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kerala,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manipur,2010,Kidnap - For Slavery,11. For Slavery,1,0,0,3,0,0,3,0,10,0,1,6,0,0,7,0
+Meghalaya,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,2010,Kidnap - For Slavery,11. For Slavery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,2010,Kidnap - For Slavery,11. For Slavery,37,0,0,0,0,0,0,0,37,13,4,19,1,0,37,0
+West Bengal,2010,Kidnap - For Slavery,11. For Slavery,6,0,0,0,0,0,1,1,6,2,3,0,0,0,5,0
+Andhra Pradesh,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,104,12,11,11,3,0,37,0,104,1,0,44,20,0,67,2
+Arunachal Pradesh,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,29,NULL,NULL,18,11,NULL,29,NULL
+Bihar,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,250,NULL,1,1,1,NULL,4,1,254,6,61,152,23,NULL,250,8
+Chhattisgarh,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,10,4,3,NULL,NULL,NULL,8,1,10,2,0,NULL,NULL,NULL,2,NULL
+Goa,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,1,0,1,NULL,NULL,NULL,1,0,1,0,NULL,NULL,NULL,NULL,NULL,0
+Gujarat,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,25,0,0,0,0,0,0,0,25,4,1,14,6,0,25,0
+Haryana,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,42,5,3,1,0,0,10,1,42,5,1,16,7,0,32,3
+Himachal Pradesh,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+Jharkhand,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,25,0,2,3,0,0,5,0,25,0,0,11,9,0,20,0
+Karnataka,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,75,0,0,54,3,0,57,0,75,0,0,10,7,1,18,0
+Kerala,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Maharashtra,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,17,0,2,0,0,0,2,0,17,0,0,1,14,0,15,0
+Manipur,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Meghalaya,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,13,0,0,5,0,0,5,0,13,0,0,6,2,0,8,0
+Puducherry,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,4,1,NULL,1,NULL,NULL,2,NULL,5,NULL,NULL,NULL,1,NULL,3,2
+Rajasthan,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,67,NULL,NULL,24,17,3,44,NULL,67,NULL,NULL,13,5,5,23,NULL
+Tamil Nadu,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,24,1,0,18,4,1,24,0,24,0,0,0,0,0,0,0
+West Bengal,2010,Kidnap - For Unlawful Activity,12. For Unlawful Activity,155,4,2,62,19,2,91,2,169,2,2,46,25,1,78,2
+Andaman & Nicobar Islands,2010,Kidnap - For Other Purposes,13. Other Purposes,8,5,1,NULL,NULL,NULL,6,NULL,8,NULL,1,NULL,1,NULL,2,NULL
+Andhra Pradesh,2010,Kidnap - For Other Purposes,13. Other Purposes,808,30,82,155,110,10,422,35,808,8,16,210,131,13,386,8
+Arunachal Pradesh,2010,Kidnap - For Other Purposes,13. Other Purposes,23,2,0,0,0,0,2,0,23,0,0,17,4,0,21,0
+Assam,2010,Kidnap - For Other Purposes,13. Other Purposes,625,NULL,NULL,169,34,NULL,203,NULL,625,NULL,NULL,298,124,NULL,422,NULL
+Bihar,2010,Kidnap - For Other Purposes,13. Other Purposes,754,3,2,101,9,NULL,115,NULL,754,31,32,506,68,NULL,639,2
+Chandigarh,2010,Kidnap - For Other Purposes,13. Other Purposes,8,NULL,NULL,NULL,NULL,NULL,1,1,8,NULL,NULL,6,NULL,NULL,7,1
+Chhattisgarh,2010,Kidnap - For Other Purposes,13. Other Purposes,165,17,14,41,7,0,85,6,165,14,15,28,17,1,80,5
+Dadra & Nagar Haveli,2010,Kidnap - For Other Purposes,13. Other Purposes,7,NULL,NULL,NULL,1,NULL,1,NULL,7,NULL,NULL,3,3,NULL,6,NULL
+Daman & Diu,2010,Kidnap - For Other Purposes,13. Other Purposes,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,1,NULL,1,NULL,NULL,2,NULL
+Delhi,2010,Kidnap - For Other Purposes,13. Other Purposes,2977,627,689,92,14,0,1593,171,3330,903,379,56,43,3,1737,353
+Goa,2010,Kidnap - For Other Purposes,13. Other Purposes,14,1,6,3,2,NULL,12,NULL,15,NULL,NULL,1,2,NULL,3,NULL
+Gujarat,2010,Kidnap - For Other Purposes,13. Other Purposes,235,7,44,34,11,1,102,5,237,8,6,66,43,3,135,9
+Haryana,2010,Kidnap - For Other Purposes,13. Other Purposes,242,6,14,52,12,0,86,2,242,6,3,104,36,6,156,1
+Himachal Pradesh,2010,Kidnap - For Other Purposes,13. Other Purposes,39,0,4,6,0,1,11,0,39,7,4,6,6,2,28,3
+Jammu & Kashmir,2010,Kidnap - For Other Purposes,13. Other Purposes,93,0,0,40,13,0,53,0,93,0,0,26,12,2,40,0
+Jharkhand,2010,Kidnap - For Other Purposes,13. Other Purposes,285,0,0,76,34,0,110,0,285,0,0,133,42,0,175,0
+Karnataka,2010,Kidnap - For Other Purposes,13. Other Purposes,1095,16,43,465,37,28,597,8,1152,8,0,436,80,17,555,14
+Kerala,2010,Kidnap - For Other Purposes,13. Other Purposes,116,11,7,26,5,0,55,6,124,8,2,16,33,5,69,5
+Madhya Pradesh,2010,Kidnap - For Other Purposes,13. Other Purposes,362,41,55,146,14,0,261,5,370,12,13,50,20,6,109,8
+Maharashtra,2010,Kidnap - For Other Purposes,13. Other Purposes,543,58,57,77,20,2,248,34,562,23,15,141,86,21,314,28
+Manipur,2010,Kidnap - For Other Purposes,13. Other Purposes,100,6,14,22,5,5,52,0,109,8,1,15,25,7,57,1
+Meghalaya,2010,Kidnap - For Other Purposes,13. Other Purposes,29,2,2,3,0,0,10,3,33,0,0,18,3,0,23,2
+Mizoram,2010,Kidnap - For Other Purposes,13. Other Purposes,6,0,0,0,0,0,0,0,6,0,0,4,2,0,6,0
+Nagaland,2010,Kidnap - For Other Purposes,13. Other Purposes,2,0,0,0,0,0,0,0,2,0,0,0,2,0,2,0
+Odisha,2010,Kidnap - For Other Purposes,13. Other Purposes,422,7,17,292,23,0,340,1,422,0,0,62,19,0,82,1
+Punjab,2010,Kidnap - For Other Purposes,13. Other Purposes,231,8,14,22,2,1,50,3,236,7,9,80,63,5,186,22
+Rajasthan,2010,Kidnap - For Other Purposes,13. Other Purposes,1327,80,198,435,88,1,815,13,1339,22,42,268,163,18,524,11
+Sikkim,2010,Kidnap - For Other Purposes,13. Other Purposes,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,1,0,NULL,1,NULL
+Tamil Nadu,2010,Kidnap - For Other Purposes,13. Other Purposes,483,15,62,118,31,3,241,12,488,4,2,87,136,11,247,7
+Tripura,2010,Kidnap - For Other Purposes,13. Other Purposes,33,3,3,9,5,0,20,0,34,1,NULL,6,6,0,14,1
+Uttar Pradesh,2010,Kidnap - For Other Purposes,13. Other Purposes,792,18,13,39,12,0,85,3,792,29,38,390,221,8,707,21
+Uttarakhand,2010,Kidnap - For Other Purposes,13. Other Purposes,123,NULL,NULL,59,29,NULL,88,NULL,123,3,5,23,4,NULL,35,NULL
+West Bengal,2010,Kidnap - For Other Purposes,13. Other Purposes,2271,0,6,1170,694,15,1885,0,2271,4,6,198,172,5,386,1
+Andaman & Nicobar Islands,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),10,5,3,NULL,NULL,NULL,8,NULL,10,NULL,1,NULL,1,NULL,2,NULL
+Andhra Pradesh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),2053,136,357,749,240,10,1531,39,2053,14,20,283,177,13,522,15
+Arunachal Pradesh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),67,5,0,34,7,0,46,0,67,0,0,17,4,0,21,0
+Assam,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),3250,5,12,2168,582,NULL,2767,NULL,3250,NULL,NULL,325,158,NULL,483,NULL
+Bihar,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),3674,64,1101,1312,91,NULL,2569,1,3683,58,112,817,103,1,1114,23
+Chandigarh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),38,6,13,8,NULL,NULL,28,1,38,NULL,NULL,6,1,NULL,10,3
+Chhattisgarh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),359,49,96,115,12,0,279,7,359,14,15,28,17,1,80,5
+Dadra & Nagar Haveli,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),18,7,2,1,1,NULL,11,NULL,18,1,NULL,3,3,NULL,7,NULL
+Daman & Diu,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,1,NULL,1,NULL,NULL,2,NULL
+Delhi,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),3208,664,838,113,14,0,1805,176,3565,909,380,59,44,3,1760,365
+Goa,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),25,1,11,4,2,0,18,0,27,0,0,3,4,0,9,2
+Gujarat,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),1447,106,420,616,51,7,1208,8,1450,13,8,125,80,4,242,12
+Haryana,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),963,23,66,576,61,0,732,6,969,17,6,138,58,7,237,11
+Himachal Pradesh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),194,18,50,82,15,1,166,0,200,8,5,8,6,2,34,5
+Jammu & Kashmir,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),896,1,3,702,138,1,846,1,896,0,0,33,15,2,50,0
+Jharkhand,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),978,3,10,589,94,0,696,0,978,0,4,195,80,2,282,1
+Karnataka,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),1374,24,96,623,44,28,825,10,1441,8,0,483,87,19,616,19
+Kerala,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),261,21,76,81,6,0,190,6,270,9,2,20,37,6,80,6
+Madhya Pradesh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),1187,145,264,590,34,0,1043,10,1207,12,16,82,37,7,164,10
+Maharashtra,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),1508,170,548,398,56,2,1216,42,1603,30,21,166,111,22,387,37
+Manipur,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),199,12,44,53,9,5,124,1,231,9,2,30,46,19,107,1
+Meghalaya,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),71,2,7,9,3,0,24,3,76,2,3,34,10,0,52,3
+Mizoram,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),9,0,0,1,0,0,1,0,9,0,0,4,4,0,8,0
+Nagaland,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),50,2,2,4,0,0,9,1,50,1,5,15,17,1,41,2
+Odisha,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),1016,20,33,822,36,0,912,1,1016,0,0,76,27,0,104,1
+Puducherry,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),17,2,5,6,NULL,NULL,16,3,20,NULL,NULL,1,1,NULL,4,2
+Punjab,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),789,76,263,253,3,1,600,4,799,7,10,84,63,5,199,30
+Rajasthan,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),2985,163,537,1390,315,8,2432,19,2998,23,43,289,174,25,566,12
+Sikkim,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),6,1,5,NULL,NULL,NULL,6,NULL,7,NULL,NULL,1,NULL,NULL,1,NULL
+Tamil Nadu,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),1720,41,431,874,103,5,1467,13,1726,5,2,89,145,11,259,7
+Tripura,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),114,8,11,57,18,0,94,NULL,130,2,0,17,15,1,36,1
+Uttar Pradesh,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),6321,169,906,3682,699,0,5468,12,6323,59,48,460,247,10,855,31
+Uttarakhand,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),286,NULL,1,217,31,NULL,249,NULL,286,3,5,25,4,NULL,37,NULL
+West Bengal,2010,Kidnap - Total,14. Total (Sum of 1-13 Above),3345,50,211,1573,840,98,2786,14,3391,24,23,284,229,35,605,10
